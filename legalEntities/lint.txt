@@ -1,0 +1,2 @@
+repository.go:7:6: type `bankAccounts` is unused (unused)
+repository.go:18:51: unexported-return: exported func NewLegalEntitiesRepository returns unexported type *legalentities.legalEntitiRepository, which can be annoying to use (revive)
